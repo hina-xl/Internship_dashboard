@@ -16,5 +16,6 @@ dependencies:
   - cmcrameri=1.9
   - cmocean=4.0.3
   - bokeh=3.6.3
+  - geoviews=1.14.0
   - jupyter
 prefix: /opt/anaconda3/envs/interactive_plot_test

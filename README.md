@@ -44,6 +44,7 @@
      jupyter lab
      ```  
    - In the browser, navigate to the `.ipynb` file and open it.
+   - Go to the top menu bar and click **Notebook** to open Jupyter Notebook
    - In the Jupyter  Interface, go to the top menu bar and click on the ">>"
 
 ---
